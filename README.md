@@ -1,11 +1,7 @@
 # AI-Agents-Workshop
 AI Agents Workshop
 
-Со временем здесь появится серия воркшопов по ИИ Агентам
-
+1. Что такое ИИ агенты, агент для создания парсеров новостей на smolagents
+2. Основы LangGraph
 Не для коммерческого использования
 
-It'll be expanded into a full AI Agent workshop series in the future.
-
-Not for commercial use
- 
